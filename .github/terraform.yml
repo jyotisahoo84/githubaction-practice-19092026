@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      - feature/pipelin
+      - feature/pipeline
 
   pull_request:
     branches:
