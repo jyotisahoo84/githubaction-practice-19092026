@@ -9,10 +9,6 @@ rgs = {
     location = "centralindia"
   }
 
-  rg3 = {
-    name     = "rg-dev"
-    location = "eastus"
-  }
 }
 
 
